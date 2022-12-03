@@ -1,0 +1,102 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 Computer programming has been a passion of mine since I was first introduced to it. Through web development in particular I've found a creative outlet that has allowed me to explore my interests and push the boundaries of my imagination. I couldn't be more grateful for the exciting opportunities in this field.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Virtual Drag and Drop",
+        "startDate": "2022",
+        "description": "I had a lot of fun working on this project and got to learn a lot of new features with computer vision. and learned basic tensorflow implementations",
+        "images": [
+          "images/portfolio/drag-drop/p1.png",
+          "images/portfolio/drag-drop/p2.png"
+        ],
+        "url": "https://github.com/cam-cc/DragDropCV",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Jetpack Compose Graphing library",
+        "startDate": "2022",
+        "description": "Personal project for others to use, I realized jetpack compose does not have a library for charts/graphs so I decided to use my framework knowledge to make one.",
+        "images": [
+          "images/portfolio/graphs/p1.png",
+          "images/portfolio/graphs/p2.png"
+        ],
+        "url": "https://github.com/cam-cc",
+        "technologies": [
+          {
+            "class": "devicon-java-original",
+            "name": "Kotlin"
+          }
+        ]
+      },
+      {
+        "title": "Logistics Invoice Application",
+        "startDate": "2022",
+        "description": "For this project I developed an invoicing system for a logistics company, which calculates the final pay for each driver and uses google maps api for distance trakcing.",
+        "images": [
+          "images/portfolio/logistics/p1.png",
+          "images/portfolio/logistics/p2.png"
+        ],
+        "url": "https://github.com/cam-cc/trucking-software",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Seneca College",
+        "title": "Computer Programming Student",
+        "years": "09.2019 - 01.2022",
+        "mainTech": [
+          "Web Dev"
+        ],
+        "technologies": [
+          "REST API",
+          "ElectronJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          "Laravel",
+          "VueJS",
+          "Angular Material",
+          "Parallel Programming",
+          "NoSQL languages"
+        ]
+      },
+      {
+        "company": "Trisec Logistics",
+        "title": "Data Analyst",
+        "years": "2019-2022",
+        "mainTech": [
+          "SQL"
+        ],
+        "technologies": [
+          "Sql",
+          "Python",
+          "Excel"
+        ]
+      }
+    ]
+  }
